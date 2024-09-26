@@ -1,0 +1,52 @@
+{
+    "caderno": {
+        "marca": "Tilibra",
+        "preco": 25.9,
+        "quantidade": 10
+    },
+    "caneta": {
+        "marca": "BIC",
+        "preco": 4.5,
+        "quantidade": 50
+    },
+    "lápis": {
+        "marca": "Faber-Castell",
+        "preco": 3.2,
+        "quantidade": 30
+    },
+    "borracha": {
+        "marca": "Mercur",
+        "preco": 2.0,
+        "quantidade": 20
+    },
+    "mochila": {
+        "marca": "Nike",
+        "preco": 150.0,
+        "quantidade": 5
+    },
+    "régua": {
+        "marca": "Tris",
+        "preco": 1.5,
+        "quantidade": 25
+    },
+    "estojo": {
+        "marca": "Sundek",
+        "preco": 45.0,
+        "quantidade": 15
+    },
+    "marca-texto": {
+        "marca": "Stabilo",
+        "preco": 10.0,
+        "quantidade": 40
+    },
+    "papel sulfite": {
+        "marca": "Chamex",
+        "preco": 15.0,
+        "quantidade": 100
+    },
+    "colar": {
+        "marca": "Pritt",
+        "preco": 8.0,
+        "quantidade": 12
+    }
+}
